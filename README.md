@@ -40,7 +40,7 @@ Info:
 - 0 $<$ omega $<$ 2
 
 ### Parallel
-Run the parallel sliding lid with
+Additionally a parallel version of the sliding lid simulation is implemented for parallel computing architectures using the Message Passing Interface (MPI). It can be run with
 
 ```
 cd src/
