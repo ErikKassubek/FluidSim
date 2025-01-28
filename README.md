@@ -1,5 +1,5 @@
 # Fluid simulation
-Implementation of an lattice Bolzman fluid simulation.<br>
+Implementation of a lattice Bolzman fluid simulation.<br>
 
 ## How
 ### Serial
