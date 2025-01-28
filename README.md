@@ -1,6 +1,5 @@
 # Fluid simulation
 Implementation of an lattice Bolzman fluid simulation.<br>
-The code for the simulation can be found in `src`.
 
 ## How
 ### Serial
